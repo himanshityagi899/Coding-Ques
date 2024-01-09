@@ -9,6 +9,7 @@ using namespace std;
 //problem 2
 //statement 1
 //statement inf
+//statement inf
 int main() {
     int t;
     cin>>t;
