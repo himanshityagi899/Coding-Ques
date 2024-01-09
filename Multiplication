@@ -7,7 +7,8 @@
 using namespace std;
 
 //problem 2
-//statement 2
+//statement 1
+//statement inf
 int main() {
     int t;
     cin>>t;
